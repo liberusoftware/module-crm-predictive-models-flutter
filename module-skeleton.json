@@ -1,0 +1,15 @@
+{
+  "repository": "module-crm-predictive-models-flutter",
+  "capabilityKey": "liberusoftware/module-crm-predictive-models",
+  "presentation": "mobile-flutter",
+  "package": "module_crm_predictive_models_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/crm/nextjs/predictive-models.md",
+  "presentationPlan": "projects/crm/flutter/predictive-models.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "crm"
+  ]
+}
